@@ -1,3 +1,4 @@
+# Awesome To-Do List App
 <h2>Description</h2>
 <p>The <strong>Awesome To-Do List App</strong> is a feature-rich task management tool designed to help users stay organized and productive. With a sleek and visually appealing UI inspired by glassmorphism and vibrant gradient effects, this app ensures a seamless task management experience.</p>
 
@@ -41,6 +42,3 @@
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License.</p>
-
-<hr>
-<p><strong>Enjoy managing your tasks in style! 🚀</strong></p>
